@@ -4,7 +4,7 @@ import './App.css';
 
 import TotalDisplay from './components/TotalDisplay';
 import CalcButton from './components/CalcButton';
-
+/// Ready 
 function App() {
 
   return (
